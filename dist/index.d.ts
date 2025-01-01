@@ -1,1 +1,2 @@
-export { default as TypeWriter } from './components/TypeWriter';
+import TypeWriter from './components/TypeWriter';
+export default TypeWriter;

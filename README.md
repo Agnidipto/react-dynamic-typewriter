@@ -17,6 +17,18 @@ or
 yarn add react-dynamic-typewriter
 ```
 
+## Demo
+
+### Basic Typewriter Animation
+![Basic typing animation with deletion](public/rec1.gif)
+
+### Multiline Text Support
+![Support for multiple lines of text](public/rec2.gif)
+
+### Dynamic Content Updates
+![Dynamic content updating in real-time](public/rec3.gif)
+
+
 ## Features
 
 - Smooth typing animation

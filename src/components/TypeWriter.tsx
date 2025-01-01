@@ -48,7 +48,7 @@ function TypeWriter({content = [], writeSpeed = 1000, deleteSpeed = 200, waitTim
         }
       }
       else {
-        setDisplayedMessage(prev => prev+currentText[index-1])
+        setDisplayedMessage(currentText.substring(0, index+1))
         index ++;
       }
     }, writeSpeed)
